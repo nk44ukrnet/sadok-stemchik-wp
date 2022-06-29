@@ -17,9 +17,9 @@
             <img src="<?php echo get_template_directory_uri(); ?>/img/phone-icon.svg" alt="phone" loading="lazy" width="50" height="53">
             +380 (50) 376 62 85
         </a>
-        <a href="#!" target="_blank" class="footer__social"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram-icon.svg" alt="instagram"
+        <a href="https://www.instagram.com/stemchyk_franchise/?igshid=YmMyMTA2M2Y=" target="_blank" class="footer__social"><img src="<?php echo get_template_directory_uri(); ?>/img/instagram-icon.svg" alt="instagram"
                                                                  loading="lazy"></a>
-        <a href="#!" target="_blank" class="footer__social"><img src="<?php echo get_template_directory_uri(); ?>/img/facebook-icon.svg" alt="facebook"
+        <a href="https://www.facebook.com/stemchyk/" target="_blank" class="footer__social"><img src="<?php echo get_template_directory_uri(); ?>/img/facebook-icon.svg" alt="facebook"
                                                                  loading="lazy"></a>
         <a href="#!" class="footer__cta btn-cta" data-bs-toggle="modal" data-bs-target="#exampleModal"><span>франшиза</span></a>
     </div>
