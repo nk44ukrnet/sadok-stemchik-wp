@@ -58,7 +58,7 @@ if(is_front_page()) {
                                         href="#!" class="header__link"> садочок</a></li>
                             <li class="header__li"><img src="<?php echo get_template_directory_uri(); ?>/img/dev-center-icon.svg" alt="icon" class="header__icon"><a
                                         href="#!" class="header__link"> центр розвитку</a></li>
-                            <li class="header__li"><img src="<?php echo get_template_directory_uri(); ?>/img/faq-icon.svg" alt="icon" class="header__icon"><a href="#!"
+                            <li class="header__li"><img src="<?php echo get_template_directory_uri(); ?>/img/faq-icon.svg" alt="icon" class="header__icon"><a href="/faq/"
                                                                                                                   class="header__link">
                                     відповіді на запитання</a></li>
                             <li class="header__li"><img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.svg" alt="icon" class="header__icon"><a
