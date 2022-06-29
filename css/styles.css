@@ -1867,4 +1867,11 @@ a:hover {
     transform: rotate(-90deg);
   }
 }
+.custom-page__container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.custom-page__heading {
+  margin-bottom: 30px;
+}
 /*# sourceMappingURL=styles.css.map */

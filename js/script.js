@@ -54,7 +54,7 @@ window.addEventListener('DOMContentLoaded', function () {
     try {
         document.forms['reg-form'].addEventListener('submit', function (e) {
             e.preventDefault();
-            postViaFetch('https://script.google.com/macros/s/AKfycbzLq1a6L-hEfmvpF6AMXZeMA4TNSWI-9Qey7-c7gSgvWldXLfaRT5kfXJSjIV44VZnX8g/exec', 'reg-form');
+            postViaFetch('https://script.google.com/macros/s/AKfycbzLq1a6L-hEfmvpF6AMXZeMA4TNSWI-9Qey7-c7gSgvWldXLfaRT5kfXJSjIV44VZnX8g/exec', 'reg-form', '/thanks/');
         });
     } catch (e) {
         console.log(e);
