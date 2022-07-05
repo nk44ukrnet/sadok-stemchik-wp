@@ -10,10 +10,11 @@ get_header();
         <h1 class="heading mt-3 text-md-start text-sm-center ">Садочок</h1>
         <div class="menu">
             <div class="menu__holder">
-                <a href=#!" class="menu__item menu__link"><span class="menu__text">Вікові групи</span></a>
+                <a href=/age-group/" class="menu__item menu__link"><span class="menu__text">Вікові групи</span></a>
             </div>
             <div class="menu__holder">
-                <div class="menu__item">Освітня програма
+                <div class="menu__item">
+                    <a href="/edu-program/" class="menu__link menu__text"> Освітня програма </a>
                     <ul>
                         <li><a href="#!" class="menu__link menu__text">Приклад розкладу</a></li>
                         <li><a href="#!" class="menu__link menu__text">Орієнтовний розпорядок дня</a></li>
