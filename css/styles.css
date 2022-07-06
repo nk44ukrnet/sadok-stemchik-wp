@@ -1978,4 +1978,12 @@ a:hover {
 .common-table.th-nowrap th {
   white-space: nowrap;
 }
+.common-table.valign-center th,
+.common-table.valign-center td {
+  vertical-align: middle;
+}
+.common-table.p-sm th,
+.common-table.p-sm td {
+  padding: 2px;
+}
 /*# sourceMappingURL=styles.css.map */
