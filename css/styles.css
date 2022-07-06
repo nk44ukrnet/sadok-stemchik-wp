@@ -1961,4 +1961,18 @@ a:hover {
 .max-width-sm {
   max-width: 360px;
 }
+.common-table-wrapper {
+  overflow: auto;
+  width: 100%;
+  height: auto;
+}
+.common-table {
+  overflow: auto;
+}
+.common-table th,
+.common-table td {
+  border: 1px solid var(--dark);
+  padding: 10px;
+  vertical-align: top;
+}
 /*# sourceMappingURL=styles.css.map */
