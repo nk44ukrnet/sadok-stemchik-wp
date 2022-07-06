@@ -17,7 +17,7 @@ get_header();
                     <a href="/edu-program/" class="menu__link menu__text"> Освітня програма </a>
                     <ul>
                         <li><a href="/sadok-schedule/" class="menu__link menu__text">Приклад розкладу</a></li>
-                        <li><a href="#!" class="menu__link menu__text">Орієнтовний розпорядок дня</a></li>
+                        <li><a href="/sadok-day/" class="menu__link menu__text">Орієнтовний розпорядок дня</a></li>
                     </ul>
                 </div>
             </div>

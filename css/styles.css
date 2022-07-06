@@ -1975,4 +1975,7 @@ a:hover {
   padding: 10px;
   vertical-align: top;
 }
+.common-table.th-nowrap th {
+  white-space: nowrap;
+}
 /*# sourceMappingURL=styles.css.map */
