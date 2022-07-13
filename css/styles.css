@@ -1763,7 +1763,7 @@ a:hover {
 .faq__inner {
   position: relative;
   z-index: 2;
-  padding: 20px 40px 20px;
+  padding: 20px 46px 20px;
   border: 4px solid var(--dark);
   border-radius: 20px;
   background-color: var(--yellow);
