@@ -1987,4 +1987,9 @@ a:hover {
 .common-table.p-sm td {
   padding: 5px;
 }
+.iframe-responsive {
+  display: block;
+  width: 100%;
+  height: 315px;
+}
 /*# sourceMappingURL=styles.css.map */

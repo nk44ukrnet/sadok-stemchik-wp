@@ -62,7 +62,7 @@ if(is_front_page()) {
                                                                                                                   class="header__link">
                                     відповіді на запитання</a></li>
                             <li class="header__li"><img src="<?php echo get_template_directory_uri(); ?>/img/location-icon.svg" alt="icon" class="header__icon"><a
-                                        href="#!" class="header__link"> локаціїї та контакти</a></li>
+                                        href="/contacts/" class="header__link"> локаціїї та контакти</a></li>
                             <li class="header__li"><img src="<?php echo get_template_directory_uri(); ?>/img/team-icon.svg" alt="icon" class="header__icon"><a href="#!"
                                                                                                                    class="header__link">
                                     команда</a></li>
