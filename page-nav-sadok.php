@@ -22,7 +22,7 @@ get_header();
                 </div>
             </div>
             <div class="menu__holder">
-                <a href="#!" class="menu__item menu__link">Організація харчування</a>
+                <a href="/food/" class="menu__item menu__link">Організація харчування</a>
             </div>
         </div>
     </div>
