@@ -61,12 +61,10 @@ get_header();
                     <th>Безлактозне</th>
                     <th>Алергени</th>
                     <td>Безглютенове</td>
-                    <th>Вихід, грам (5-6 років)</th>
-                    <th>Вихід, грам (6-11 років)</th>
-                    <th>Вих, грам (12-16) років</th>
+                    <th>Вихід, грам</th>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Сніданок на вибір</th>
+                    <th colspan="9" class="text-center">Сніданок на вибір</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -78,8 +76,6 @@ get_header();
                     <td>1;2</td>
                     <td>Рисові хлібці</td>
                     <td>15</td>
-                    <td>25</td>
-                    <td>25</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -91,8 +87,6 @@ get_header();
                     <td></td>
                     <td>Сир твердий</td>
                     <td>10</td>
-                    <td>10</td>
-                    <td>15</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -104,8 +98,6 @@ get_header();
                     <td></td>
                     <td>Масло</td>
                     <td>10</td>
-                    <td>10</td>
-                    <td>10</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -116,8 +108,6 @@ get_header();
                     <td>Яйце відварне</td>
                     <td>4</td>
                     <td></td>
-                    <td>50</td>
-                    <td>50</td>
                     <td>50</td>
                 </tr>
                 <tr>
@@ -130,8 +120,6 @@ get_header();
                     <td></td>
                     <td>Рисова каша</td>
                     <td>110</td>
-                    <td>130</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -143,8 +131,6 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>15</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>7</td>
@@ -155,8 +141,6 @@ get_header();
                     <td>Лимон</td>
                     <td></td>
                     <td>Лимон</td>
-                    <td>2</td>
-                    <td>2</td>
                     <td>2</td>
                 </tr>
                 <tr>
@@ -169,11 +153,9 @@ get_header();
                     <td></td>
                     <td>Молоко</td>
                     <td>150</td>
-                    <td>150</td>
-                    <td>180</td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Обід</th>
+                    <th colspan="9" class="text-center">Обід</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -185,8 +167,6 @@ get_header();
                     <td>1</td>
                     <td>Суп овочевий</td>
                     <td>150</td>
-                    <td>250</td>
-                    <td>350</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -198,8 +178,6 @@ get_header();
                     <td></td>
                     <td>Картопля по-селянськи</td>
                     <td>130</td>
-                    <td>170</td>
-                    <td>180</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -211,8 +189,6 @@ get_header();
                     <td>1</td>
                     <td>Куряча фрикаделька в овочевому соусі</td>
                     <td>60</td>
-                    <td>70</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -224,8 +200,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>70</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -237,8 +211,6 @@ get_header();
                     <td>1</td>
                     <td>Хліб бездріжджовий</td>
                     <td>15</td>
-                    <td>25</td>
-                    <td>30</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -250,11 +222,9 @@ get_header();
                     <td></td>
                     <td>Компот "Лісові ягоди"</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>200</td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Підвечірок</th>
+                    <th colspan="9" class="text-center">Підвечірок</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -266,8 +236,6 @@ get_header();
                     <td>1</td>
                     <td>Слойка з повидлом</td>
                     <td>60</td>
-                    <td>75</td>
-                    <td>85</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -278,8 +246,6 @@ get_header();
                     <td>Фрукт</td>
                     <td></td>
                     <td>Фрукт</td>
-                    <td></td>
-                    <td></td>
                     <td></td>
                 </tr>
                 <tr>
@@ -292,11 +258,9 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
-                    <th colspan="11">Вечеря</th>
+                    <th colspan="9">Вечеря</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -308,8 +272,6 @@ get_header();
                     <td></td>
                     <td>Кукурудзяна каша</td>
                     <td>110</td>
-                    <td>130</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -321,8 +283,6 @@ get_header();
                     <td>1;4</td>
                     <td></td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -334,8 +294,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>60</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -347,8 +305,6 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -360,8 +316,6 @@ get_header();
                     <td>1;2</td>
                     <td>Рисовий хлібець</td>
                     <td>15</td>
-                    <td>25</td>
-                    <td>25</td>
                 </tr>
                 </tbody>
             </table>
@@ -383,12 +337,10 @@ get_header();
                     <th>Безлактозне</th>
                     <th>Алергени</th>
                     <td>Безглютенове</td>
-                    <th>Вихід, грам (5-6 років)</th>
-                    <th>Вихід, грам (6-11 років)</th>
-                    <th>Вихід, грам (12-16) років</th>
+                    <th>Вихід, грам</th>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Сніданок на вибір</th>
+                    <th colspan="9" class="text-center">Сніданок на вибір</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -399,8 +351,6 @@ get_header();
                     <td>Хліб бездріжджовий</td>
                     <td>1;2</td>
                     <td>Рисові хлібці</td>
-                    <td>15</td>
-                    <td>15</td>
                     <td>15</td>
                 </tr>
                 <tr>
@@ -413,8 +363,6 @@ get_header();
                     <td></td>
                     <td>Сир твердий</td>
                     <td>7</td>
-                    <td>10</td>
-                    <td>15</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -425,8 +373,6 @@ get_header();
                     <td>Масло безлактозне</td>
                     <td></td>
                     <td>Масло солодковершкове</td>
-                    <td>10</td>
-                    <td>10</td>
                     <td>10</td>
                 </tr>
                 <tr>
@@ -439,8 +385,6 @@ get_header();
                     <td>1;4</td>
                     <td>Гречані пластівці з молоком</td>
                     <td>150</td>
-                    <td>100</td>
-                    <td>110</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -452,8 +396,6 @@ get_header();
                     <td></td>
                     <td>Варення</td>
                     <td>5</td>
-                    <td>10</td>
-                    <td>10</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -465,8 +407,6 @@ get_header();
                     <td></td>
                     <td></td>
                     <td>5</td>
-                    <td>7</td>
-                    <td>7</td>
                 </tr>
                 <tr>
                     <td>7</td>
@@ -477,8 +417,6 @@ get_header();
                     <td>Лимон</td>
                     <td></td>
                     <td>Лимон</td>
-                    <td>2</td>
-                    <td>2</td>
                     <td>2</td>
                 </tr>
                 <tr>
@@ -491,11 +429,9 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Обід</th>
+                    <th colspan="9" class="text-center">Обід</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -507,8 +443,6 @@ get_header();
                     <td>1</td>
                     <td>Борщ червоний з м'ясом та сметаною</td>
                     <td>150</td>
-                    <td>250</td>
-                    <td>350</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -520,8 +454,6 @@ get_header();
                     <td>1</td>
                     <td></td>
                     <td>110</td>
-                    <td>130</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -533,8 +465,6 @@ get_header();
                     <td>1</td>
                     <td></td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -546,8 +476,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>70</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -559,11 +487,9 @@ get_header();
                     <td>1</td>
                     <td>Рисові хлібці</td>
                     <td>15</td>
-                    <td>25</td>
-                    <td>30</td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Підвечірок</th>
+                    <th colspan="9" class="text-center">Підвечірок</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -575,8 +501,6 @@ get_header();
                     <td>1;2;4</td>
                     <td>Безглютенова випічка</td>
                     <td>70</td>
-                    <td>80</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -588,8 +512,6 @@ get_header();
                     <td>2</td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -601,11 +523,9 @@ get_header();
                     <td></td>
                     <td>Фрукт</td>
                     <td>90</td>
-                    <td>100</td>
-                    <td>110</td>
                 </tr>
                 <tr>
-                    <th colspan="11">Вечеря</th>
+                    <th colspan="9">Вечеря</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -617,8 +537,6 @@ get_header();
                     <td></td>
                     <td>Плов з індичкою</td>
                     <td>180</td>
-                    <td>200</td>
-                    <td>250</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -630,8 +548,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>60</td>
-                    <td>70</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -643,8 +559,6 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -656,8 +570,7 @@ get_header();
                     <td>1;2</td>
                     <td>Рисовий хлібець</td>
                     <td>80</td>
-                    <td>25</td>
-                    <td>25</td>
+
                 </tr>
                 </tbody>
             </table>
@@ -666,7 +579,7 @@ get_header();
             <table class="common-table valign-center p-sm text-center">
                 <thead>
                 <tr>
-                    <th colspan="11" class="text-center"> Ср - II</th>
+                    <th colspan="9" class="text-center"> Ср - II</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -679,12 +592,10 @@ get_header();
                     <th>Безлактозне</th>
                     <th>Алергени</th>
                     <td>Безглютенове</td>
-                    <th>Вихід, грам (5-6 років)</th>
-                    <th>Вихід, грам (6-11 років)</th>
-                    <th>Вихід, грам (12-16) років</th>
+                    <th>Вихід, грам</th>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Сніданок</th>
+                    <th colspan="9" class="text-center">Сніданок</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -696,8 +607,6 @@ get_header();
                     <td>1</td>
                     <td>Гречка відварна </td>
                     <td>60</td>
-                    <td>70</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -709,8 +618,6 @@ get_header();
                     <td>4</td>
                     <td>Яйце відварне</td>
                     <td>30</td>
-                    <td>40</td>
-                    <td>50</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -722,8 +629,6 @@ get_header();
                     <td>1;2</td>
                     <td>Хлібці рисові або кукурудзяні</td>
                     <td>10</td>
-                    <td>15</td>
-                    <td>20</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -734,8 +639,6 @@ get_header();
                     <td>Масло безлактозне</td>
                     <td></td>
                     <td>Масло солодковершкове</td>
-                    <td>10</td>
-                    <td>10</td>
                     <td>10</td>
                 </tr>
                 <tr>
@@ -748,8 +651,6 @@ get_header();
                     <td></td>
                     <td>Індичка запечена</td>
                     <td>10</td>
-                    <td>15</td>
-                    <td>20</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -761,8 +662,6 @@ get_header();
                     <td>2</td>
                     <td>Молоко</td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>100</td>
                 </tr>
                 <tr>
                     <td>7</td>
@@ -774,8 +673,6 @@ get_header();
                     <td></td>
                     <td>Варення</td>
                     <td>5</td>
-                    <td>7</td>
-                    <td>10</td>
                 </tr>
                 <tr>
                     <td>8</td>
@@ -787,8 +684,6 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>9</td>
@@ -800,11 +695,9 @@ get_header();
                     <td></td>
                     <td></td>
                     <td>2</td>
-                    <td>2</td>
-                    <td>2</td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Обід</th>
+                    <th colspan="9" class="text-center">Обід</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -816,8 +709,6 @@ get_header();
                     <td></td>
                     <td>Суп-пюре  з сочевицею та сухариками</td>
                     <td>150</td>
-                    <td>250</td>
-                    <td>350</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -829,8 +720,6 @@ get_header();
                     <td></td>
                     <td>Рис відварний</td>
                     <td>110</td>
-                    <td>150</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -842,8 +731,6 @@ get_header();
                     <td></td>
                     <td>Біфстроганов з телятини</td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -855,8 +742,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>70</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -868,8 +753,6 @@ get_header();
                     <td>1;4</td>
                     <td></td>
                     <td>50</td>
-                    <td>60</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -881,8 +764,6 @@ get_header();
                     <td>1</td>
                     <td>Хлібці рисові або кукурудзяні</td>
                     <td>15</td>
-                    <td>25</td>
-                    <td>30</td>
                 </tr>
                 <tr>
                     <td>7</td>
@@ -894,11 +775,9 @@ get_header();
                     <td></td>
                     <td>Компот "Яблучний"</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>200</td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Підвечірок</th>
+                    <th colspan="9" class="text-center">Підвечірок</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -910,8 +789,6 @@ get_header();
                     <td>1</td>
                     <td>Безглютенова випічка</td>
                     <td>70</td>
-                    <td>80</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -923,8 +800,6 @@ get_header();
                     <td></td>
                     <td>Фрукт</td>
                     <td></td>
-                    <td>80</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -936,11 +811,9 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
-                    <th colspan="11">Вечеря</th>
+                    <th colspan="9">Вечеря</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -952,8 +825,6 @@ get_header();
                     <td>1;2</td>
                     <td></td>
                     <td>100</td>
-                    <td>130</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -965,8 +836,6 @@ get_header();
                     <td>1;3</td>
                     <td>Котлета рибна</td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -978,8 +847,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>60</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -991,8 +858,6 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -1004,8 +869,6 @@ get_header();
                     <td>1;2</td>
                     <td>Хлібці рисові або кукурудзяні</td>
                     <td>15</td>
-                    <td>20</td>
-                    <td>20</td>
                 </tr>
                 </tbody>
             </table>
@@ -1014,7 +877,7 @@ get_header();
             <table class="common-table valign-center p-sm text-center">
                 <thead>
                 <tr>
-                    <th colspan="11" class="text-center"> Чт II</th>
+                    <th colspan="9" class="text-center"> Чт II</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -1027,9 +890,7 @@ get_header();
                     <th>Безлактозне</th>
                     <th>Алергени</th>
                     <td>Безглютенове</td>
-                    <th>Вихід, грам (5-6 років)</th>
-                    <th>Вихід, грам (6-11 років)</th>
-                    <th>Вихід, грам (12-16)</th>
+                    <th>Вихід, грам</th>
                 </tr>
                 <tr>
                     <th colspan="11" class="text-center">Сніданок</th>
@@ -1044,8 +905,6 @@ get_header();
                     <td>1</td>
                     <td>Безглютенові пластівці з сухофруктами</td>
                     <td>110</td>
-                    <td>130</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -1057,8 +916,6 @@ get_header();
                     <td></td>
                     <td>Безглютенова випічка</td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>100</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -1070,8 +927,6 @@ get_header();
                     <td></td>
                     <td>Чай </td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -1083,11 +938,9 @@ get_header();
                     <td></td>
                     <td>Лимон</td>
                     <td>2</td>
-                    <td>2</td>
-                    <td></td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Обід</th>
+                    <th colspan="9" class="text-center">Обід</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -1099,8 +952,6 @@ get_header();
                     <td>1</td>
                     <td>Суп з кльоцками та гурячою грудкою</td>
                     <td>150</td>
-                    <td>250</td>
-                    <td>180</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -1112,8 +963,6 @@ get_header();
                     <td></td>
                     <td>Картопля відварна з зеленню</td>
                     <td>130</td>
-                    <td>170</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -1125,8 +974,6 @@ get_header();
                     <td></td>
                     <td>Ковбаска по-домашньому</td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -1138,8 +985,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>70</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -1151,8 +996,6 @@ get_header();
                     <td></td>
                     <td>Компот "Лісові ягоди"</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>30</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -1164,8 +1007,6 @@ get_header();
                     <td>1</td>
                     <td>Хлібці рисові або кукурудзяні</td>
                     <td>10</td>
-                    <td>15</td>
-                    <td>20</td>
                 </tr>
                 <tr>
                     <td>7</td>
@@ -1177,11 +1018,9 @@ get_header();
                     <td></td>
                     <td>Компот "Яблучний"</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>200</td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Підвечірок</th>
+                    <th colspan="9" class="text-center">Підвечірок</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -1193,8 +1032,6 @@ get_header();
                     <td>1;4</td>
                     <td>Безглютенова випічка</td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -1206,8 +1043,6 @@ get_header();
                     <td></td>
                     <td>Компот "Лісові ягоди"</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -1219,11 +1054,9 @@ get_header();
                     <td></td>
                     <td>Фрукт</td>
                     <td>80</td>
-                    <td>90</td>
-                    <td>110</td>
                 </tr>
                 <tr>
-                    <th colspan="11">Вечеря</th>
+                    <th colspan="9">Вечеря</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -1235,8 +1068,6 @@ get_header();
                     <td></td>
                     <td></td>
                     <td>110</td>
-                    <td>80</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -1248,8 +1079,6 @@ get_header();
                     <td></td>
                     <td>Індичка в кисло-солодкому соусі</td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -1261,8 +1090,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>60</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -1274,8 +1101,6 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>25</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -1287,8 +1112,6 @@ get_header();
                     <td>1;2</td>
                     <td>Хлібці рисові або кукурудзяні</td>
                     <td>15</td>
-                    <td>20</td>
-                    <td>20</td>
                 </tr>
                 </tbody>
             </table>
@@ -1310,12 +1133,10 @@ get_header();
                     <th>Безлактозне</th>
                     <th>Алергени</th>
                     <td>Безглютенове</td>
-                    <th>Вихід, грам (5-6 років)</th>
-                    <th>Вихід, грам (6-11 років)</th>
-                    <th>Вихід, грам (12-16)</th>
+                    <th>Вихід, грам</th>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Сніданок</th>
+                    <th colspan="9" class="text-center">Сніданок</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -1327,8 +1148,6 @@ get_header();
                     <td>1;2</td>
                     <td>Хлібці рисові або кукурудзяні</td>
                     <td>10</td>
-                    <td>15</td>
-                    <td>20</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -1340,8 +1159,6 @@ get_header();
                     <td></td>
                     <td>Сир твердий</td>
                     <td>10</td>
-                    <td>10</td>
-                    <td>10</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -1352,8 +1169,6 @@ get_header();
                     <td>Масло безлактозне</td>
                     <td></td>
                     <td>Масло безлактозне</td>
-                    <td>10</td>
-                    <td>10</td>
                     <td>10</td>
                 </tr>
                 <tr>
@@ -1366,8 +1181,6 @@ get_header();
                     <td></td>
                     <td>Запіканка безглют</td>
                     <td>50</td>
-                    <td>80</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -1379,8 +1192,6 @@ get_header();
                     <td></td>
                     <td>Сметана</td>
                     <td>5</td>
-                    <td>7</td>
-                    <td>10</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -1392,8 +1203,6 @@ get_header();
                     <td></td>
                     <td></td>
                     <td>110</td>
-                    <td>130</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>7</td>
@@ -1405,8 +1214,6 @@ get_header();
                     <td></td>
                     <td>Чай </td>
                     <td>150</td>
-                    <td>200</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>8</td>
@@ -1418,11 +1225,9 @@ get_header();
                     <td></td>
                     <td>Лимон </td>
                     <td>2</td>
-                    <td>2</td>
-                    <td></td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Обід</th>
+                    <th colspan="9" class="text-center">Обід</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -1434,8 +1239,6 @@ get_header();
                     <td></td>
                     <td>Бульйон з курячої грудки та рисовою локшиною та зеленню</td>
                     <td>200</td>
-                    <td>250</td>
-                    <td>150</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -1447,8 +1250,6 @@ get_header();
                     <td>1;4</td>
                     <td>Картопля по селянськи</td>
                     <td>110</td>
-                    <td>130</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -1459,8 +1260,6 @@ get_header();
                     <td>Запечене м'ясо птиці (гомілка)</td>
                     <td></td>
                     <td>Запечене м'ясо птиці (гомілка)</td>
-                    <td>80</td>
-                    <td>110</td>
                     <td>80</td>
                 </tr>
                 <tr>
@@ -1473,8 +1272,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>70</td>
-                    <td>30</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -1486,8 +1283,6 @@ get_header();
                     <td>1</td>
                     <td>Хлібці рисові або кукурудзяні</td>
                     <td>15</td>
-                    <td>25</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>6</td>
@@ -1499,11 +1294,9 @@ get_header();
                     <td></td>
                     <td>Компот "Лісові ягоди"</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>200</td>
                 </tr>
                 <tr>
-                    <th colspan="11" class="text-center">Підвечірок</th>
+                    <th colspan="9" class="text-center">Підвечірок</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -1515,8 +1308,6 @@ get_header();
                     <td>1</td>
                     <td>Сендвіч з запеченою індичкою, огірком на листі салата</td>
                     <td>60</td>
-                    <td>70</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -1528,8 +1319,6 @@ get_header();
                     <td></td>
                     <td>Компот "Лісові ягоди"</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>200</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -1541,11 +1330,9 @@ get_header();
                     <td></td>
                     <td>Фрукт</td>
                     <td>80</td>
-                    <td>90</td>
-                    <td>100</td>
                 </tr>
                 <tr>
-                    <th colspan="11">Вечеря</th>
+                    <th colspan="9">Вечеря</th>
                 </tr>
                 <tr>
                     <td>1</td>
@@ -1557,8 +1344,6 @@ get_header();
                     <td>1</td>
                     <td></td>
                     <td>80</td>
-                    <td>100</td>
-                    <td>120</td>
                 </tr>
                 <tr>
                     <td>2</td>
@@ -1570,8 +1355,6 @@ get_header();
                     <td></td>
                     <td>Тушкована телятина в ягідному соусі</td>
                     <td>60</td>
-                    <td>80</td>
-                    <td>90</td>
                 </tr>
                 <tr>
                     <td>3</td>
@@ -1583,8 +1366,6 @@ get_header();
                     <td></td>
                     <td>Нарізка з свіжих овочів</td>
                     <td>50</td>
-                    <td>60</td>
-                    <td>80</td>
                 </tr>
                 <tr>
                     <td>4</td>
@@ -1596,8 +1377,6 @@ get_header();
                     <td></td>
                     <td>Чай</td>
                     <td>150</td>
-                    <td>180</td>
-                    <td>20</td>
                 </tr>
                 <tr>
                     <td>5</td>
@@ -1609,8 +1388,6 @@ get_header();
                     <td>1;2</td>
                     <td>Хлібці рисові або кукурудзяні</td>
                     <td>10</td>
-                    <td>15</td>
-                    <td>20</td>
                 </tr>
                 </tbody>
             </table>
