@@ -1717,7 +1717,8 @@ a:hover {
   background-color: var(--yellow);
   background-image: url(../img/faq-bg.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+  background-position: bottom center;
   position: relative;
 }
 .faq:before {
